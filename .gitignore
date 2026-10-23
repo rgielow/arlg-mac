@@ -1,0 +1,6 @@
+token
+*.json
+venv/
+build/
+*.app
+.DS_Store
