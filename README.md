@@ -2,7 +2,7 @@
 
 App nativo em SwiftUI que fica na barra de menu do macOS e controla aparelhos de ar-condicionado LG conectados ao app **LG ThinQ**, usando a API oficial **ThinQ Connect**.
 
-> 📸 _Screenshot: adicione aqui uma captura do painel (`docs/panel.png`)._
+<p align="center"><img src="docs/panel.png" alt="Painel do ArLG" width="360"></p>
 
 ## Recursos
 
